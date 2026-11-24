@@ -1,338 +1,247 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Hi 👋, I'm Shunmuga Sundaram A</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Aspiring+Salesforce+Developer;Full+Stack+Developer;Java+%26+Spring+Boot+Enthusiast;Building+Technology+That+Matters" alt="Typing SVG" />
+  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
 </p>
 
 <p align="center">
-  <a href="https://sun-portfolio02.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-22D3EE?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shunmuga-sundaram-a-3080102a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/u/SHUNMUGASUNDARAM5264/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-22D3EE?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/ShunmugaSundaramA07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  <a href="https://github.com/DeepakAmalWinstarJ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShunmugaSundaramA07&label=PROFILE%20VIEWS&color=22D3EE&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/techwin.in" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:deepakamalwinstarj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Learning+Today%2C+Building+Tomorrow.;Turning+Ideas+Into+Technology." alt="Typing Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <b>Computer Science Engineering Student | Aspiring Salesforce Developer | Full Stack Developer</b>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
 </p>
 
 <p align="center">
-  Hey! I'm <b>Shunmuga Sundaram A</b>, a Computer Science and Engineering student at St. Joseph's Institute of Technology, Chennai.
-  <br/><br/>
-  I am interested in Salesforce Development, Apex Programming, Lightning Web Components (LWC), Java and Full Stack Development.
-  <br/><br/>
-  I enjoy developing practical applications, exploring new technologies and solving real-world problems through software.
+  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
+  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-0D1117?style=flat-square&logo=target&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Degree-B.E.%20CSE-0D1117?style=flat-square&logo=academia&logoColor=22D3EE" />
-  <img src="https://img.shields.io/badge/Focus-Salesforce%20Development-0D1117?style=flat-square&logo=salesforce&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
 </p>
 
 <p align="center">
-  💬 <b>Let's Discuss:</b> Salesforce, Apex, LWC, Java, React, Spring Boot and Full Stack Development.
-  <br/>
-  ⚡ <b>My Philosophy:</b> Learn continuously, build consistently and improve every day.
+  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
+  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h4>☁️ Career Focus</h4>
-      <b>Salesforce Development</b>
-      <br/>
-      <sub>Apex, SOQL & LWC</sub>
-    </td>
-    <td width="50%" align="center">
-      <h4>🌐 Development</h4>
-      <b>Full Stack Development</b>
-      <br/>
-      <sub>React, Java & Spring Boot</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h4>🎓 Education</h4>
-      <b>B.E. Computer Science</b>
-      <br/>
-      <sub>2023–2027</sub>
-    </td>
-    <td width="50%" align="center">
-      <h4>🤝 Collaboration</h4>
-      <b>Open to Opportunities</b>
-      <br/>
-      <sub>Development & Internships</sub>
-    </td>
-  </tr>
+<table width="100%" border="0" align="center">
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🔭 Flagship Project</h4>
+  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🌱 Active Deep Dives</h4>
+  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>📱 Tech Creator</h4>
+  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+</td>
+<td width="50%" align="center" style="padding: 14px;">
+  <h4>🤝 Collaboration</h4>
+  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
+</td>
+</tr>
 </table>
 
 ---
 
-<!-- ================= PORTFOLIO ================= -->
+<h2 align="center">🔴 Featured Project Spotlight</h2>
 
-<h2 align="center">🌐 My Personal Portfolio</h2>
-
-<p align="center">
-  Explore my portfolio to learn more about my technical skills, projects and development journey.
-</p>
-
-<p align="center">
-  <a href="https://sun-portfolio02.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Visit Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://sun-portfolio02.vercel.app/">
-    <b>sun-portfolio02.vercel.app</b>
-  </a>
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✍️ AirScribe</h3>
-      <p align="center">
-        AI-powered air-writing and character recognition system using hand gestures.
-      </p>
-      <p align="center">
-        <sub>Python • OpenCV • MediaPipe • TensorFlow/Keras • Flask</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤟 SignVerse / SignBridge</h3>
-      <p align="center">
-        Sign language recognition platform focused on gesture-based communication.
-      </p>
-      <p align="center">
-        <sub>React • Spring Boot • Gesture Recognition</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 CVPartner</h3>
-      <p align="center">
-        Telegram-based resume bot using workflow automation.
-      </p>
-      <p align="center">
-        <sub>Telegram • n8n</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏥 Mediverse</h3>
-      <p align="center">
-        Healthcare-focused software project.
-      </p>
-      <p align="center">
-        <sub>Healthcare Technology</sub>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🩸 BloodLine</h3>
-      <p>Blood donor coordination platform.</p>
-      <sub>Blood Donation & Coordination</sub>
-    </td>
-  </tr>
+<table width="100%" border="0" align="center">
+<tr>
+<td align="center" style="padding: 22px;">
+  <h3>🔬 OpenCore Mastitis Monitor</h3>
+  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
+  <br />
+  <p>
+    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
+      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
+    </a>
+  </p>
+</td>
+</tr>
 </table>
 
 ---
-
-<!-- ================= SALESFORCE ================= -->
-
-<h2 align="center">☁️ Salesforce Development</h2>
-
-<p align="center">
-  Exploring Salesforce Administration and Development, with a focus on building custom business solutions.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Platform-22D3EE?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Apex-Programming-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SOQL-Querying-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/LWC-Lightning_Web_Components-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<p align="center">
-  <sub>Currently developing my Salesforce knowledge and practical development skills.</sub>
-</p>
-
----
-
-<!-- ================= EXPERIENCE ================= -->
-
-<h2 align="center">💼 Experience</h2>
-
-- **SARF Pvt. Ltd.** — Front-End Developer Intern
-- **Bevywise Networks LLP** — Front-End Developer Intern
-- **CodeSoft** — Software Development Intern
-
----
-
-<!-- ================= ACHIEVEMENTS ================= -->
-
-<h2 align="center">🏆 Achievements & Certifications</h2>
-
-- Google Student Ambassador.
-- Top 10 – Hack-AI-Thon.
-- NPTEL DBMS – Silver.
-- Oracle Cloud AI Foundation Associate.
-- IEEE YESIST12 2025 – Grand Finale Selection.
-
----
-
-<!-- ================= LEETCODE ================= -->
 
 <h2 align="center">🧩 LeetCode Problem Solving</h2>
 
-<p align="center">
-  <i>Practicing problem-solving and strengthening my data structures and algorithms knowledge.</i>
-</p>
+<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/SHUNMUGASUNDARAM5264/">
-    <img src="https://leetcard.jacoblin.cool/SHUNMUGASUNDARAM5264?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width:480px;" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/SHUNMUGASUNDARAM5264/">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-22D3EE?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode Profile"/>
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
+    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
   </a>
 </p>
 
 ---
-
-<!-- ================= TECH STACK ================= -->
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<p align="center"><b>Programming Languages</b></p>
-
+<p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" alt="Programming Languages"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
+  </a>
 </p>
 
-<p align="center"><b>Frontend Development</b></p>
-
+<p align="center"><b>Frontend & Mobile Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend Skills"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
+  </a>
 </p>
 
-<p align="center"><b>Backend Development</b></p>
-
+<p align="center"><b>Backend, Cloud & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask&theme=dark" alt="Backend Skills"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
+  </a>
 </p>
 
-<p align="center"><b>Databases</b></p>
-
+<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+  </a>
 </p>
 
-<p align="center"><b>Salesforce Development</b></p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-22D3EE?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Apex-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/SOQL-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/LWC-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<p align="center"><b>Tools & Technologies</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=dark" alt="Tools"/>
+  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
 </p>
 
 ---
-
-<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ShunmugaSundaramA07&show_icons=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&icon_color=22D3EE&hide_border=true" width="100%" style="max-width:440px;" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ShunmugaSundaramA07&layout=compact&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB&hide_border=true" width="100%" style="max-width:350px;" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShunmugaSundaramA07&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="100%" style="max-width:480px;" alt="GitHub Streak"/>
-</p>
-
----
-
-<!-- ================= CONTRIBUTION ================= -->
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-<h2 align="center">📬 Let's Connect & Collaborate</h2>
+<h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <i>Interested in Salesforce Development, Full Stack Development, software engineering and meaningful collaborations.</i>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shunmuga-sundaram-a-3080102a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+---
+
+<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
+
+<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
+
+<table border="0" align="center">
+<tr>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/SHUNMUGASUNDARAM5264/">
-    <img src="https://img.shields.io/badge/LeetCode-Follow-22D3EE?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/>
+  <br />
+  <sub><b>Professional Network</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="https://www.instagram.com/techwin.in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
   </a>
-  <a href="https://github.com/ShunmugaSundaramA07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+  <br />
+  <sub><b>Articles &amp; Tech Guides</b></sub>
+</td>
+<td align="center" width="220" style="padding: 16px;">
+  <a href="mailto:deepakamalwinstarj@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
   </a>
-  <a href="https://sun-portfolio02.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
-  </a>
-</p>
+  <br />
+  <sub><b>Direct Collaboration</b></sub>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 👋</b>
-  <br/>
-  <i>Keep Learning. Keep Building. Keep Growing.</i>
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
