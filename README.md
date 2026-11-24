@@ -181,33 +181,24 @@
   <img src="assets/salesforce.png" width="180" alt="Salesforce Logo" />
 </p>
 
+
 <p align="center"><b>AI Automation & RPA Tools</b></p>
 
-<table width="100%" border="0">
-  <tr>
-    <td align="center">
-      <img src="assets/n8n-bg-removed.png" width="65" height="55" alt="n8n Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/zapier.png" width="75" height="55" alt="Zapier Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/make.png" width="65" height="55" alt="Make Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/power%20automate.png" width="65" height="55" alt="Microsoft Power Automate Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/uipath.png" width="65" height="55" alt="UiPath Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/blueprism.png" width="65" height="55" alt="Blue Prism Logo" />
-    </td>
-    <td align="center">
-      <img src="assets/automation%20anywhere.png" width="65" height="55" alt="Automation Anywhere Logo" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/n8n-bg-removed.png" width="65" height="55" alt="n8n Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/zapier.png" width="75" height="55" alt="Zapier Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/make.png" width="65" height="55" alt="Make Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/power%20automate.png" width="65" height="55" alt="Microsoft Power Automate Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/uipath.png" width="65" height="55" alt="UiPath Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/blueprism.png" width="65" height="55" alt="Blue Prism Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/automation%20anywhere.png" width="65" height="55" alt="Automation Anywhere Logo" />
+</p>
 
 <p align="center"><b>AI, Computer Vision & Tools</b></p>
 
