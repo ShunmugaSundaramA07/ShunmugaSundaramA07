@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Shunmuga Sundaram A Header" />
 </p>
@@ -176,13 +177,25 @@
 <p align="center"><b>Salesforce Development</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-0a0a0a?style=for-the-badge&logo=salesforce&logoColor=EF4444" alt="Salesforce" />
+  <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="80" height="80" alt="Salesforce" />
+</p>
+
+<p align="center"><b>AI Automation & RPA Tools</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Apex-0a0a0a?style=for-the-badge&logo=salesforce&logoColor=EF4444" alt="Apex" />
+  <img src="https://img.shields.io/badge/Zapier-0a0a0a?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Zapier" />
   &nbsp;
-  <img src="https://img.shields.io/badge/SOQL-0a0a0a?style=for-the-badge&logo=salesforce&logoColor=EF4444" alt="SOQL" />
+  <img src="https://img.shields.io/badge/Make-0a0a0a?style=for-the-badge&logo=make&logoColor=6D4AFF" alt="Make" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LWC-0a0a0a?style=for-the-badge&logo=salesforce&logoColor=EF4444" alt="Lightning Web Components" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0a0a0a?style=for-the-badge&logo=microsoftpowerautomate&logoColor=0078D4" alt="Microsoft Power Automate" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/UiPath-0a0a0a?style=for-the-badge&logo=uipath&logoColor=FA4616" alt="UiPath" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Blue%20Prism-0a0a0a?style=for-the-badge&logo=blueprism&logoColor=00AEEF" alt="Blue Prism" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-0a0a0a?style=for-the-badge&logo=automationanywhere&logoColor=FF5A1F" alt="Automation Anywhere" />
 </p>
 
 <p align="center"><b>AI, Computer Vision & Tools</b></p>
