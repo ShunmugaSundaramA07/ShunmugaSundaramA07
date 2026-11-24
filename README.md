@@ -71,22 +71,22 @@
 <table width="100%" border="0" align="center">
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Project</h4>
-  <p><b>AirScribe</b><br /><sub>AI-Powered Air Writing Recognition</sub></p>
+  <h4>🍿 Business Project</h4>
+  <p><b>AYYAN SNACKS SPOT</b><br /><sub>Business Website Development</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🌱 Active Deep Dives</h4>
-  <p><b>Salesforce &amp; Java</b><br /><sub>Apex, LWC &amp; Spring Boot</sub></p>
+  <p><b>Salesforce & Java</b><br /><sub>Apex, LWC & Spring Boot</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🎓 Education</h4>
-  <p><b>St. Joseph's Institute of Technology</b><br /><sub>B.E. Computer Science &amp; Engineering</sub></p>
+  <p><b>St. Joseph's Institute of Technology</b><br /><sub>B.E. Computer Science & Engineering</sub></p>
 </td>
 <td width="50%" align="center" style="padding: 14px;">
   <h4>🤝 Collaboration</h4>
-  <p><b>Salesforce &amp; Web Development</b><br /><sub>Open to internship opportunities</sub></p>
+  <p><b>Salesforce & Web Development</b><br /><sub>Open to internship opportunities</sub></p>
 </td>
 </tr>
 </table>
@@ -98,16 +98,19 @@
 <table width="100%" border="0" align="center">
 <tr>
 <td align="center" style="padding: 22px;">
-  <h3>✍️ AirScribe</h3>
-  <p><i>An AI-powered air-writing recognition system that uses hand gestures and computer vision to recognize characters through virtual writing in the air.</i></p>
+  <h3>🍿 AYYAN SNACKS SPOT</h3>
+
+  <p><i>A business website developed for AYYAN SNACKS SPOT, creating a dedicated digital presence to showcase the brand and bring its business online through a responsive web experience.</i></p>
+
   <br />
+
   <p>
-    <a href="https://sun-portfolio02.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-🚀%20Explore%20My%20Work-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+    <a href="https://ayyansnacksspot2000.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live%20Website-🌐%20Visit%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Website" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/ShunmugaSundaramA07" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub Projects" />
+    <a href="https://github.com/ShunmugaSundaramA07/AYYAN-SNACKS-SPOT-WEBSITE" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-💻%20Source%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub Repository" />
     </a>
   </p>
 </td>
