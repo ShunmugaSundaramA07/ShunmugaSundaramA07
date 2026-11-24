@@ -177,7 +177,7 @@
 <p align="center"><b>Salesforce Development</b></p>
 
 <p align="center">
-  <img src="assets/salesforce.png" width="85" height="85" alt="Salesforce Logo" />
+  <img src="assets/salesforce.png" width="150" height="150" alt="Salesforce Logo" />
 </p>
 
 <p align="center"><b>AI Automation & RPA Tools</b></p>
