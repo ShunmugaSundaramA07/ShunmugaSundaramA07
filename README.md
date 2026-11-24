@@ -98,21 +98,25 @@
 <table width="100%" border="0" align="center">
 <tr>
 <td align="center" style="padding: 22px;">
+
   <h3>🍿 AYYAN SNACKS SPOT</h3>
 
-  <p><i>A business website developed for AYYAN SNACKS SPOT, creating a dedicated digital presence to showcase the brand and bring its business online through a responsive web experience.</i></p>
+  <p>
+    <i>A business website developed for AYYAN SNACKS SPOT, creating a dedicated digital presence to showcase the brand and bring its business online through a responsive web experience.</i>
+  </p>
 
   <br />
 
   <p>
     <a href="https://ayyansnacksspot2000.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Website-🌐%20Visit%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Website" />
+      <img src="https://img.shields.io/badge/LIVE%20WEBSITE-Visit%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Website" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/ShunmugaSundaramA07/AYYAN-SNACKS-SPOT-WEBSITE" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-💻%20Source%20Code-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub Repository" />
+      <img src="https://img.shields.io/badge/GITHUB-Source%20Code-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub Repository" />
     </a>
   </p>
+
 </td>
 </tr>
 </table>
@@ -121,7 +125,9 @@
 
 <h2 align="center">🧩 LeetCode Problem Solving</h2>
 
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+<p align="center">
+  <i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/SHUNMUGASUNDARAM5264/" target="_blank">
@@ -144,6 +150,7 @@
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
 <p align="center"><b>Core Programming Languages</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
@@ -151,6 +158,7 @@
 </p>
 
 <p align="center"><b>Frontend Development</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend" />
@@ -158,6 +166,7 @@
 </p>
 
 <p align="center"><b>Backend, Cloud & Databases</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
@@ -165,6 +174,7 @@
 </p>
 
 <p align="center"><b>Salesforce Development</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-0a0a0a?style=for-the-badge&logo=salesforce&logoColor=EF4444" alt="Salesforce" />
   &nbsp;
@@ -176,6 +186,7 @@
 </p>
 
 <p align="center"><b>AI, Computer Vision & Tools</b></p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,linux,docker,vscode,idea&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and Technologies" />
@@ -212,7 +223,9 @@
 
 <h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
 
-<p align="center"><i>Whether you want to discuss Salesforce Development, explore full-stack collaboration, or just say hello — my inbox is always open!</i></p>
+<p align="center">
+  <i>Whether you want to discuss Salesforce Development, explore full-stack collaboration, or just say hello — my inbox is always open!</i>
+</p>
 
 <table border="0" align="center">
 <tr>
@@ -225,6 +238,7 @@
   <br />
   <sub><b>Professional Network</b></sub>
 </td>
+
 <td align="center" width="220" style="padding: 16px;">
   <a href="mailto:shunmugasundar07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
