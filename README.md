@@ -174,6 +174,7 @@
   </a>
 </p>
 
+
 <p align="center"><b>Salesforce Development</b></p>
 
 <p align="center">
@@ -182,21 +183,31 @@
 
 <p align="center"><b>AI Automation & RPA Tools</b></p>
 
-<p align="center">
-  <img src="assets/n8n-bg-removed.png" width="85" height="65" alt="n8n Logo" />
-  &nbsp;&nbsp;
-  <img src="assets/zapier.png" width="100" height="65" alt="Zapier Logo" />
-  &nbsp;&nbsp;
-  <img src="assets/make.png" width="85" height="65" alt="Make Logo" />
-  &nbsp;&nbsp;
-  <img src="assets/power%20automate.png" width="85" height="65" alt="Microsoft Power Automate Logo" />
-  <br /><br />
-  <img src="assets/uipath.png" width="85" height="65" alt="UiPath Logo" />
-  &nbsp;&nbsp;
-  <img src="assets/blueprism.png" width="85" height="65" alt="Blue Prism Logo" />
-  &nbsp;&nbsp;
-  <img src="assets/automation%20anywhere.png" width="85" height="65" alt="Automation Anywhere Logo" />
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td align="center">
+      <img src="assets/n8n-bg-removed.png" width="65" height="55" alt="n8n Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/zapier.png" width="75" height="55" alt="Zapier Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/make.png" width="65" height="55" alt="Make Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/power%20automate.png" width="65" height="55" alt="Microsoft Power Automate Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/uipath.png" width="65" height="55" alt="UiPath Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/blueprism.png" width="65" height="55" alt="Blue Prism Logo" />
+    </td>
+    <td align="center">
+      <img src="assets/automation%20anywhere.png" width="65" height="55" alt="Automation Anywhere Logo" />
+    </td>
+  </tr>
+</table>
 
 <p align="center"><b>AI, Computer Vision & Tools</b></p>
 
@@ -205,6 +216,7 @@
     <img src="https://skillicons.dev/icons?i=opencv,git,github,postman,linux,docker,vscode,idea&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and Technologies" />
   </a>
 </p>
+
 
 ---
 
