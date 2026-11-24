@@ -177,25 +177,25 @@
 <p align="center"><b>Salesforce Development</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="assets/salesforce.png" width="85" height="85" alt="Salesforce Logo" />
 </p>
 
 <p align="center"><b>AI Automation & RPA Tools</b></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" alt="n8n" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge" alt="Zapier" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge" alt="Make" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge" alt="Power Automate" />
+  <img src="assets/n8n-bg-removed.png" width="85" height="65" alt="n8n Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/zapier.png" width="100" height="65" alt="Zapier Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/make.png" width="85" height="65" alt="Make Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/power%20automate.png" width="85" height="65" alt="Microsoft Power Automate Logo" />
   <br /><br />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge" alt="UiPath" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Blue_Prism-00AEEF?style=for-the-badge" alt="Blue Prism" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Automation_Anywhere-FF5A1F?style=for-the-badge" alt="Automation Anywhere" />
+  <img src="assets/uipath.png" width="85" height="65" alt="UiPath Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/blueprism.png" width="85" height="65" alt="Blue Prism Logo" />
+  &nbsp;&nbsp;
+  <img src="assets/automation%20anywhere.png" width="85" height="65" alt="Automation Anywhere Logo" />
 </p>
 
 <p align="center"><b>AI, Computer Vision & Tools</b></p>
